@@ -1,4 +1,4 @@
-! Spring 2024 Revisions by Karan Patel
+! Spring 2024 Revisions by Karan Patel 
 
 ! This program executes pow as a test program using the LC 1001 calling convention
 ! Check your registers ($v0) and memory to see if it is consistent with this program
